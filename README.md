@@ -1,4 +1,7 @@
 # blah
 
 [hello](.)
+
 [hello](./)
+
+[empty]()
